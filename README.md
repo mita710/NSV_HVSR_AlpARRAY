@@ -2,7 +2,9 @@
 Scripts to compute NSV and HVSR from AlpARRAY
 
 For Near Surface Velocity (NSV)
+
 (1) NSV_extract_values.py: Extract values from RF SAC headers, and compute NSV
+
 (2) NSV_compute_average.sh: Compute average NSV at each seismic station
 
 For Horizontal-to-Vertical Ratio (HVSR
