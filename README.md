@@ -8,6 +8,8 @@ For Near Surface Velocity (NSV)
 (2) NSV_compute_average.sh: Compute average NSV at each seismic station
 
 
+
+
 For Horizontal-to-Vertical Ratio (HVSR)
 
 (1) HVSR_download_data.py: Download 2 hour long miniseed files for 5 consecutive days
